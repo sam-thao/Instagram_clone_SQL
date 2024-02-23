@@ -1,8 +1,8 @@
-Instagram Clone Database Schema
-Overview
+# Instagram Clone Database Schema
+## Overview
 This project involves creating a MySQL database schema for an Instagram clone. The process includes creating tables, defining columns, data types, primary keys, foreign keys, and constraints.
 
-Tables
+## Tables
 Users Table
 Columns: Id (Primary Key), Username, Created_at
 Photo Table
@@ -20,7 +20,8 @@ Photo_tags
 Columns: Photo_id, Tag_id
 Tags
 Columns: Id, Tag_name
-Questions
+
+## Questions
 Find the 5 oldest users:
 
 Query to identify the users who have been around the longest.
