@@ -45,4 +45,4 @@ Identify users who liked every photo on the site:
 Find potential bot accounts by locating users who liked every photo.
 
 ## Additional Resources
-For performance considerations related to hashtags, refer to this article: Tagsystems Performance Tests
+For performance considerations related to hashtags, refer to this article: [Tagsystems Performance Tests](http://howto.philippkeller.com/2005/06/19/Tagsystems-performance-tests/)
